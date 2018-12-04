@@ -3,7 +3,7 @@ services: docker
 
 env:
   global:
-    - PROJECT=gitlab-node
+    - PROJECT=gitlab-python
     - NAMESPACE=plasmops
     - PUSH_NAMESPACES=plasmops
   matrix:
